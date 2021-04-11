@@ -1,3 +1,6 @@
 {
-    "files.encoding": "eucjp"
+    "files.encoding": "eucjp",
+    "terminal.integrated.shell.windows": "c:\\cygwin\\bin\\bash.exe",
+    "terminal.integrated.shellArgs.windows": ["--login"]
+
 }
